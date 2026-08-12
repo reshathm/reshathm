@@ -63,7 +63,7 @@ I'm a Computer Science student specializing in Cyber Security, currently buildin
 <summary><b>🚀 Project 1 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
@@ -73,7 +73,7 @@ One-line description of what it does and what you built it with.
 <summary><b>🚀 Project 2 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
@@ -83,13 +83,13 @@ One-line description of what it does and what you built it with.
 <summary><b>🚀 Project 3 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
 </details>
 
-> *Pin your best repos on GitHub and they'll also show up automatically at the top of your profile.*
+> 
 
 ---
 
@@ -105,7 +105,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 - 📚 Deepening knowledge in AI-assisted development and secure coding practices
 - 🎯 Seeking internship/entry-level opportunities to apply these skills
 
-*(Update this section as you gain real experience — internships, freelance work, or open-source contributions all count.)*
+
 
 </details>
 
@@ -117,7 +117,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 ![Google](https://img.shields.io/badge/Google-Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
-> *Placeholder badges — swap in exact certificate titles and credential links once you have them.*
+> 
 
 ---
 
@@ -143,7 +143,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 
 ![Snake animation](https://raw.githubusercontent.com/reshathm/reshathm/output/github-contribution-grid-snake.svg)
 
-<sub>To make the snake animation work, set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in this repo — it generates and commits the SVG automatically on a schedule.</sub>
+<sub>
 
 ---
 
