@@ -63,7 +63,7 @@ I'm a Computer Science student specializing in Cyber Security, currently buildin
 <summary><b>🚀 Project 1 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
@@ -73,7 +73,7 @@ One-line description of what it does and what you built it with.
 <summary><b>🚀 Project 2 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
@@ -83,7 +83,7 @@ One-line description of what it does and what you built it with.
 <summary><b>🚀 Project 3 — add name here</b></summary>
 <br>
 
-One-line description of what it does and what you built it with.
+
 
 `Tech used` · [Repo Link](#) · [Live Demo](#)
 
@@ -105,7 +105,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 - 📚 Deepening knowledge in AI-assisted development and secure coding practices
 - 🎯 Seeking internship/entry-level opportunities to apply these skills
 
-*
+
 
 </details>
 
