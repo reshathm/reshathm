@@ -145,7 +145,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reshathm&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=reshathm&show_icons=true&theme=dark&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reshathm&theme=dark&hide_border=true&background=0d1117&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2&currStreakLabel=ffffff)
 
