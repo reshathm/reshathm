@@ -2,7 +2,7 @@
 
 # Reshath M
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;AI%2FML+Enthusiast;Cybersecurity+Student" alt="Typing SVG" />
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-CSE%20Cyber%20Security-8A2BE2?style=for-the-badge)
 ![Institute](https://img.shields.io/badge/SRM%20Institute-Science%20%26%20Technology-6A5ACD?style=for-the-badge)
@@ -89,7 +89,7 @@ One-line description of what it does and what you built it with.
 
 </details>
 
-> *Pin your best repos on GitHub and they'll also show up automatically at the top of your profile.*
+> 
 
 ---
 
@@ -105,7 +105,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 - 📚 Deepening knowledge in AI-assisted development and secure coding practices
 - 🎯 Seeking internship/entry-level opportunities to apply these skills
 
-*(Update this section as you gain real experience — internships, freelance work, or open-source contributions all count.)*
+*
 
 </details>
 
@@ -117,7 +117,7 @@ Currently focused on strengthening full-stack and AI/ML fundamentals through per
 ![Google](https://img.shields.io/badge/Google-Certification-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
 
-> *Placeholder badges — swap in exact certificate titles and credential links once you have them.*
+> 
 
 ---
 
